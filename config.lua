@@ -1,1 +1,0 @@
-GameRules:SendCustomMessage('<font color="#0f0"><b>ОХУЕТЬ ОНО РАБОТАЕТ</b></font>', 0, 0)
