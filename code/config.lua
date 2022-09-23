@@ -8,6 +8,8 @@ GameRules:SetHeroSelectPenaltyTime(0)
 GameRules:SetStrategyTime(4)
 GameRules:SetShowcaseTime(0)
 
+GameRules:SetTreeRegrowTime(180)
+
 GameRules:SetTimeOfDay(0.25)
 
 
